@@ -60,36 +60,28 @@ pay for Amazon using grant money, however universities are getting better about 
 
 ### Open Science Clouds
 
-#### [XSEDE](https://www.xsede.org/)
+#### [ACCESS](https://access-ci.org/)
 
-The Extreme Science and Engineering Discovery Environment (XSEDE) is an NSF funded HPCC, so
-it is open to any US-based researcher, and shares most of the same benefits and drawbacks
-of a university or corporate HPCC. If your university or corporation doesn't have it's
-own HPCC resources, XSEDE will likely be your cheapest option.
+The NSF’s ACCESS (Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support) program 
+builds upon the successes of the 11-year XSEDE (Extreme Science and Engineering Discovery Environment) project, 
+while also expanding the ecosystem with capabilities for new modes of research and further democratizing participation.
 
-Although any US-based researcher can use XSEDE, first [they'll need an account](https://portal.xsede.org/#/guest).
-Like the HPCC options described above, XSEDE uses a scheduler to start jobs, and puts limits on
-how many resources any one user can utilize at once.
+Although any US-based researcher can use ACCESS, first [they'll need an account](https://identity.access-ci.org/new-user).
+If you previously had an XCEDE account, you do not need to create a new ACCESS ID.
 
-XSEDE can also be a bit intimidating at first because you will need to know what resources
-you need, and for how long, before you get started. XSEDE runs like a mini version of the
-NSF grant system. In order to qualify to submit large jobs, you'll have to submit a [allocation request](https://portal.xsede.org/allocations/research), in the form of a short proposal.
+ACCESS can also be a bit intimidating at first because you will need to know what resources
+you need, and for how long, before you get started. ACCESS runs like a mini version of the
+NSF grant system. In order to qualify to submit large jobs, you'll have to submit a [allocation request](https://allocations.access-ci.org/manage-allocations-overview), in the form of a short proposal.
+
 Also like an NSF grant, if your proposal is accepted, that means you have access to whatever
 resources you were approved for, for the time frame you requested.
 
-Don't let that paragraph scare you off though. XSEDE has two different allocation tracks. If
-you aren't sure exactly what you'll need for your big project, you can request a [startup allocation](https://portal.xsede.org/allocations/startup) which only requires an abstract
-rather than a proposal, and grants you a year to try out your new pipeline or analysis. These
-are usually granted in a week or so, and are intended for you to test your pipeline so you
-know what to ask for in your allocation proposal.
+Don't let that paragraph scare you off though. ACCESS has four different allocation tracks. If
+you aren't sure exactly what you'll need for your big project, you can request an [explore allocation](https://allocations.access-ci.org/prepare-requests-overview#comparison-table) which only requires an abstract
+rather than a proposal, and grants you a year to try out your new pipeline or analysis.
 
-If that still sounds a little too daunting, XSEDE also has [trial allocations](https://iujetstream.atlassian.net/wiki/spaces/JWT/pages/76149919/Jetstream+Trial+Access+Allocation)
-which give you access to only a tiny fraction of XSEDES power, but are plenty large enough to
-test your code and see if a larger allocation is worth pursuing. These allocations are granted
-more or less immediately by simply filling in a form and agreeing to the usage rules.
-
-If you're interested in using XSEDE, check to see if your workplace has a [Campus Champion](https://www.xsede.org/community-engagement/campus-champions). These are people who
-have had extensive training on both the XSEDE system and the allocation program, and can
+If you're interested in using ACCESS, check to see if your workplace has a [Campus Champion](https://campuschampions.cyberinfrastructure.org/). These are people who
+have had extensive training on both the XSEDE/ACCESS systems and the allocation program, and can
 help you figure out how to apply and what you need.
 
 #### [Open Science Grid](https://opensciencegrid.org)
@@ -125,7 +117,11 @@ The Open Science Data Cloud provides the scientific community with resources for
 
 #### [CyVerse (iPlant Collaborative) Atmosphere](https://www.cyverse.org/atmosphere)
 
-#### [JetStream](https://jetstream-cloud.org/)
+#### [JetStream2](https://jetstream-cloud.org/)
+
+Jetstream2 is a flexible, user-friendly cloud computing environment available to US-based researchers and educators at no cost through support from the National Science Foundation's Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support ([ACCESS](https://access-ci.org/)) program.
+
+As a resource provider for the NSF's ACCESS program, Jetstream2 users must first [register for an ACCESS ID](https://operations.access-ci.org/identity/new-user). You'll then use this ID to apply for your allocation, distribute credits, manage your project members, and log in to Jetstream2. 
 
 ### Commercial Clouds
 
